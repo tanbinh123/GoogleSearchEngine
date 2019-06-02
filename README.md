@@ -3,6 +3,7 @@
 ### Base on HeapSort
 ### By using Web Crawler to get the web address
 ### import javaFX library
+#### *More details you can see in my report*
 ---
 - Max-Heapify()        ------>  O(lg n)
 - Build-Max-Heap()    ------>  O(n)
